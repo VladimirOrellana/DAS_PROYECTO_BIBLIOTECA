@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "DON QUIJOTE DE LA MANCHA ",
+    "Autor": "MIGUEL DE CERVANTES",
+    "Año": 1605,
+    "Genero": "FANTASIA CONTEMPORANEA",
+    "Disponible": true,
+    "Sinopsis": "El ingenioso hidalgo don Quijote de la Mancha narra las aventuras de Alonso Quijano, un hidalgo pobre que de tanto leer novelas de caballería acaba enloqueciendo y creyendo ser un caballero andante, nombrándose a sí mismo como don Quijote de la Mancha.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 2,
+    "Titulo": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
+    "Autor": "J. K. ROWLING",
+    "Año": 1997,
+    "Genero": "FANTASIA",
+    "Disponible": true,
+    "Sinopsis": "El día en que cumple once años, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Deberá acudir entonces a una famosa escuela de magia y hechicería: Howards.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 3,
+    "Titulo": "HARRY POTTER Y LA CAMARA SECRETA ",
+    "Autor": "J. K. ROWLIMG",
+    "Año": 1998,
+    "Genero": "FANTASIA",
+    "Disponible": true,
+    "Sinopsis": "Terminado el verano, Harry no ve la hora de abandonar la casa de sus odiosos tíos. Inesperadamente se presenta en su dormitorio Dobby, un elfo doméstico, que le anuncia que correrá un gran peligro si vuelve a Hogwarts.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 4,
+    "Titulo": "HARRY POTTER Y EL PRISONERO DE AZKABAN",
+    "Autor": "J. K. ROWLING ",
+    "Año": 1999,
+    "Genero": "FANTASIA",
+    "Disponible": true,
+    "Sinopsis": "Harry Potter y el prisionero de Azkaban / Harry Potter and the Prisoner of Azkaban. El tercer año de estudios de Harry en Hogwarts se ve amenazado por la fuga de Sirius Black de la prisión para magos de Azkaban. Se trata de un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 5,
+    "Titulo": "HARRY POTTER Y EL CALIZ DE FUEGO",
+    "Autor": "J. K. ROWLING",
+    "Año": 2001,
+    "Genero": "FANTASIA",
+    "Disponible": true,
+    "Sinopsis": "Tras las evidencias de que Voldemort ha regresado, Harry se verá envuelto en el tradicional Torneo de los Tres Magos. Con ayuda de Ron y Herminone, se preparará para competir en una nueva lucha que él no ha elegido.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 6,
+    "Titulo": "HARRY POTTER Y LA ORDEN DEL FENIX",
+    "Autor": "J. K. ROWLING",
+    "Año": 2003,
+    "Genero": "FANTASIA",
+    "Disponible": true,
+    "Sinopsis": "Cuando la ignorancia de una nueva profesora deja a Hogwarts sin la preparación suficiente para luchar contra el demonio, Harr le enseña a un pequeño grupo de estudiantes a defenderse en contra de las artes oscuras.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 7,
+    "Titulo": "HARRY POTTER ",
+    "Autor": "J. K. ROWLING",
+    "Año": 2005,
+    "Genero": "FANTASIA",
+    "Disponible": true,
+    "Sinopsis": "Sexta entrega de la saga del joven mago, en la que Harry descubre un poderoso libro y, mientras trata de descubrir sus orígenes, colabora con Dumbledore en la búsqueda de una serie de objetos mágicos que ayudarán en la destrucción de Lord Voldemort.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 8,
+    "Titulo": "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE",
+    "Autor": "J. K. ROWLING",
+    "Año": 2007,
+    "Genero": "FANTASIA",
+    "Disponible": true,
+    "Sinopsis": "Harry, Ron y Hermione dejan Hogwarts para seguir con su misión de destruir los Horcruxes, el secreto del poder y la inmortalidad de Voldemort.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 9,
+    "Titulo": "EL GATO NEGRO",
+    "Autor": "EDGAR ALLAN POE",
+    "Año": 1843,
+    "Genero": "MISTERIO",
+    "Disponible": true,
+    "Sinopsis": "El gato negro, un clásico de la literatura de terror, narra la historia de un hombre que enloquece ante la presencia de un gato negro. El amor de su esposa por el gato llega a tal grado que el hombre termina asesinándola y emparedándola en el sótano de su casa.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 10,
+    "Titulo": "CORAZON DELATOR",
+    "Autor": "EDGAR ALLAN POE",
+    "Año": 1824,
+    "Genero": "CENCIA FICCION",
+    "Disponible": true,
+    "Sinopsis": "La historia presenta a un narrador anónimo obsesionado con el ojo enfermo (que llama \"ojo de buitre\") de un anciano con el cual convive. Finalmente decide asesinarlo. El crimen es planeado cuidadosamente y, tras ser perpetrado, el cadáver es despedazado y escondido bajo las tablas del suelo de la casa.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 11,
+    "Titulo": "BARRIL DE AMONTILLADO",
+    "Autor": "EDGAR ALLAN POE",
+    "Año": 1846,
+    "Genero": "CUETO MISTICO",
+    "Disponible": true,
+    "Sinopsis": "'El barril de amontillado' es el escalofriante relato de un asesinato, en el que el protagonista Montresor cuenta su venganza contra Fortunato , engañado para conseguir llevarlo hasta una bodega, donde terminará emparedado.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 12,
+    "Titulo": "EL ANGEL DE LO SINGULAR",
+    "Autor": "EDGAR ALLAN POE",
+    "Año": 1844,
+    "Genero": "",
+    "Disponible": true,
+    "Sinopsis": "La historia sigue a un narrador sin nombre que lee una historia sobre un hombre que murió después de que accidentalmente se tragara una aguja y ésta fuera hasta sus pulmones. Éste se enfurece de la credulidad de la humanidad para creer semejantes patrañas y jura que nunca caerá en esas historias raras.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 13,
+    "Titulo": "VIAJE AL MUNDO EN 180",
+    "Autor": "JULIO VERNE",
+    "Año": 1873,
+    "Genero": "CIENCIA FICCION",
+    "Disponible": true,
+    "Sinopsis": "Sinopsis. El caballero inglés Phileas Fogg quiere demostrar a la sociedad de su época (1872) que se puede dar la vuelta al mundo en solo 80 días. Durante el viaje, Fogg y su criado Passepartout tienen que luchar contra todo tipo de obstáculos y, sobre todo, contra el paso del tiempo.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 14,
+    "Titulo": "VIAJE AL CENTRO DE LA TIERRA",
+    "Autor": "JULIO VERNE",
+    "Año": 1864,
+    "Genero": "NOVELA",
+    "Disponible": true,
+    "Sinopsis": "Durante una expedición científica en Islandia, el científico Trevor Anderson, su sobrino Sean y Hannah, la guía que les acompaña, quedan atrapados en una cueva.",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 15,
+    "Titulo": "DE LA TIERRA A LA LUNA",
+    "Autor": "JULIO VERNE",
+    "Año": 1865,
+    "Genero": "NOVELA",
+    "Disponible": true,
+    "Sinopsis": "En el Gun Club de Baltimore, tres científicos aficionados preparan el mayor salto intentado nunca por los hombres, sirviendose de un proyectil, que contiene una cabina para los decimonónicos astronautas, y un gigantesco cañón para dispararlo más allá de la atmósfera",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 16,
+    "Titulo": "CUENTO DE NAVIDAD",
+    "Autor": "CHARLES DICKEN",
+    "Año": 1984,
+    "Genero": "NOVELA",
+    "Disponible": true,
+    "Sinopsis": "CUENTO DE FANTASIA SOBRE LOS FANTASMAS DE SCRRODGE",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 17,
+    "Titulo": "HUSH HUSH",
+    "Autor": "Becca Fitzpatrick",
+    "Año": 2009,
+    "Genero": "NOVELA",
+    "Disponible": true,
+    "Sinopsis": "Nora Grey es una estudiante modelo de segundo año que vive con su madre a las afueras de Coldwater (ciudad ficticia ubicada en Maine, EE. UU.). Meses atrás, su padre murió luego de ser asaltado en Portland, y desde entonces acude a sesiones con el terapeuta de la escuela. Su mejor amiga es Vee Sky, a pesar de que sus personalidades son completamente diferentes. ",
+    "AnioPublicacion": null
+  },
+  {
+    "Id": 18,
+    "Titulo": "THE AMAZING SPIDER-MAN: BACK TO BLACK",
+    "Autor": "STAN LEE",
+    "Año": 2009,
+    "Genero": "ACCION",
+    "Disponible": true,
+    "Sinopsis": "Sinopsis. La bala de un francotirador lo cambia todo en la vida de Spider-Man (Peter Parker). Enfundado en su traje negro, Spider-Man no se detendrá ante nada para encontrar al hombre que apretó el gatillo y, aún más importante, al hombre que dio la orden de matar. Este es el Hombre Araña en su momento más oscuro.",
+    "AnioPublicacion": null
+  }
+]

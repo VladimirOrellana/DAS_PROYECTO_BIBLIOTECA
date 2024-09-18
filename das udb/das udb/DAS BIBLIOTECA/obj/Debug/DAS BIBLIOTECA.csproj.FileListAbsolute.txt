@@ -1,0 +1,40 @@
+G:\bliblioteca\das udb\DAS BIBLIOTECA\bin\Debug\DAS BIBLIOTECA.exe.config
+G:\bliblioteca\das udb\DAS BIBLIOTECA\bin\Debug\DAS BIBLIOTECA.exe
+G:\bliblioteca\das udb\DAS BIBLIOTECA\bin\Debug\DAS BIBLIOTECA.pdb
+G:\bliblioteca\das udb\DAS BIBLIOTECA\bin\Debug\Newtonsoft.Json.dll
+G:\bliblioteca\das udb\DAS BIBLIOTECA\bin\Debug\Newtonsoft.Json.xml
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.csproj.AssemblyReference.cache
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.EditarLibroForm.resources
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.AgregarLibroForm.resources
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.MainForm.resources
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.Properties.Resources.resources
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.csproj.GenerateResource.cache
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.csproj.CoreCompileInputs.cache
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBL.0AB7D568.Up2Date
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.exe
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.pdb
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.GestionarUsuarioForm.resources
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.RegistrarPrestamoForm.resources
+G:\bliblioteca\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.EditarPrestamoForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.csproj.AssemblyReference.cache
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.EditarLibroForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.AgregarLibroForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.EditarPrestamoForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.EditarUsuarioForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.grafico.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.LoginForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.MainForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.Properties.Resources.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.GestionarUsuarioForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.RegistrarPrestamoForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS_BIBLIOTECA.RegistrarUsuarioForm.resources
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.csproj.GenerateResource.cache
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\bin\Debug\DAS BIBLIOTECA.exe.config
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\bin\Debug\DAS BIBLIOTECA.exe
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\bin\Debug\DAS BIBLIOTECA.pdb
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBL.0AB7D568.Up2Date
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.exe
+C:\Users\Ronal\OneDrive\Escritorio\DESARROLLO DE APLICACIONES\das udb\das udb\DAS BIBLIOTECA\obj\Debug\DAS BIBLIOTECA.pdb

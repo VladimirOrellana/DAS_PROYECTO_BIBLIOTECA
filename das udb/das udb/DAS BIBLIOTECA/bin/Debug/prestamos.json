@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 4,
+    "LibroId": 1,
+    "UsuarioId": 1,
+    "FechaPrestamo": "2024-09-15T21:11:35",
+    "FechaDevolucion": "2024-09-16T21:11:35",
+    "Devuelto": false
+  },
+  {
+    "Id": 5,
+    "LibroId": 1,
+    "UsuarioId": 1,
+    "FechaPrestamo": "2024-09-15T23:05:54.5012231-06:00",
+    "FechaDevolucion": "2024-09-16T23:05:54",
+    "Devuelto": false
+  },
+  {
+    "Id": 2,
+    "LibroId": 1,
+    "UsuarioId": 1,
+    "FechaPrestamo": "2024-09-15T14:27:28.0844363-06:00",
+    "FechaDevolucion": "2024-09-18T14:27:28",
+    "Devuelto": false
+  },
+  {
+    "Id": 6,
+    "LibroId": 3,
+    "UsuarioId": 2,
+    "FechaPrestamo": "2024-09-17T22:04:12.5946581-06:00",
+    "FechaDevolucion": "2024-09-17T22:04:12.5921528-06:00",
+    "Devuelto": false
+  },
+  {
+    "Id": 7,
+    "LibroId": 5,
+    "UsuarioId": 6,
+    "FechaPrestamo": "2024-09-17T23:32:16.0339719-06:00",
+    "FechaDevolucion": "2024-09-17T23:32:16.0309731-06:00",
+    "Devuelto": false
+  },
+  {
+    "Id": 3,
+    "LibroId": 1,
+    "UsuarioId": 1,
+    "FechaPrestamo": "2024-09-15T15:22:49.359391-06:00",
+    "FechaDevolucion": "2024-09-18T15:22:49",
+    "Devuelto": false
+  }
+]

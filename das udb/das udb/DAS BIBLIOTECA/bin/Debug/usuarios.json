@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "admin",
+    "NombreUsuario": "admin",
+    "Contraseña": "admin123",
+    "Direccion": "udb",
+    "Email": "admin@udb.com",
+    "TipoUsuario": "Bibliotecario",
+    "RutaFoto": null,
+    "Apellido": null,
+    "Telefono": null,
+    "Activo": true
+  },
+  {
+    "Id": 2,
+    "Nombre": "rolando",
+    "NombreUsuario": "admin",
+    "Contraseña": "admin123",
+    "Direccion": "guevara",
+    "Email": "aka@ggg.com",
+    "TipoUsuario": "Estudiante",
+    "RutaFoto": null,
+    "Apellido": null,
+    "Telefono": null,
+    "Activo": true
+  },
+  {
+    "Id": 3,
+    "Nombre": "123",
+    "NombreUsuario": "admin",
+    "Contraseña": "admin123",
+    "Direccion": "3333",
+    "Email": "22222@2222.com",
+    "TipoUsuario": "Profesor",
+    "RutaFoto": null,
+    "Apellido": null,
+    "Telefono": null,
+    "Activo": true
+  },
+  {
+    "Id": 4,
+    "Nombre": "bggbs",
+    "NombreUsuario": "copito",
+    "Contraseña": "123",
+    "Direccion": "bgdb",
+    "Email": "cjdbac@cshvch.com",
+    "TipoUsuario": "Profesor",
+    "RutaFoto": null,
+    "Apellido": null,
+    "Telefono": null,
+    "Activo": true
+  },
+  {
+    "Id": 5,
+    "Nombre": "ronald",
+    "NombreUsuario": "",
+    "Contraseña": "",
+    "Direccion": "cbbjeb",
+    "Email": "dcj@cbjsjc.com",
+    "TipoUsuario": "Estudiante",
+    "RutaFoto": null,
+    "Apellido": null,
+    "Telefono": null,
+    "Activo": true
+  },
+  {
+    "Id": 6,
+    "Nombre": "RONALD ORELLANA",
+    "NombreUsuario": "RONALD",
+    "Contraseña": "RONALD",
+    "Direccion": "UDB",
+    "Email": "ronald@orellana.com",
+    "TipoUsuario": "Bibliotecario",
+    "RutaFoto": null,
+    "Apellido": null,
+    "Telefono": null,
+    "Activo": true
+  }
+]
